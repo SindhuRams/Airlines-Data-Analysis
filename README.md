@@ -12,7 +12,7 @@ BUSINESS PERSPECTIVES OF THE DATA
 
 1.	What are the reasons For Flight Cancellations based on highest cancelled Destination??
 2.	What is the maximum Delay Attribute by considering Airlines, Destination Airport and the Flight Number for analysis??
-3.	 When is the best day of week/time of year to fly to minimize delays??
+3.	When is the best day of week/time of year to fly to minimize delays??
 4.	What days in the week and month accumulated most delayed flights?
 
 INSIGHTS & RECOMMENDATIONS
